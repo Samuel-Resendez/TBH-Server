@@ -1,1 +1,0 @@
-web: gunicorn toBeHuman.toBeHuman.wsgi --log-file -
