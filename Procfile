@@ -1,1 +1,1 @@
-web: gunicorn toBeHuman.wsgi:application --log-file -
+web: gunicorn toBeHuman.toBeHuman.wsgi:application --log-file -
